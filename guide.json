@@ -60,20 +60,20 @@
 		"background": "#00FF00"
       },
       {
-        "title": "Give Yourself A Hand",
-        "image": "https://www.zupimages.net/up/21/37/9bjz.png",
+        "title": "Timer 1",
+        "image": "https://www.zupimages.net/up/21/39/877d.jpeg",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Grab the hidden glove in the Auto Mechanic job\n\nJob: Auto Mechanic\nLevel: All levels involving a car. (Level 2 for example)\n\nRotate a car to “Right Front”  and open the dashboard. In the dashboard you will find a glove. Grab it and the trophy will be yours. You can find a video on how to accomplish it below.",
+        "text": "When you enter the lobby, look at the timer over the top of the door in front of you. This is when the next game starts. Once the timer reaches zero, you’re transported to a dark room where you need to walk forward out into the play area.",
         "isNative": false,
 		"background": "#00FF00"
       },
       {
-        "title": "Lucky Winner",
+        "title": "Timer 2",
         "image": "https://www.zupimages.net/up/21/37/dpl8.png",
         "color": "#000000",
         "text_size": "25",
@@ -81,12 +81,12 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Scratch off a winning lottery ticket in the Store Clerk job\n\nJob: Store Clerk\nLevel: Any\n\nFor this trophy you will need to scratch a lottery ticket and win the jackpot. The tickets are located left in front of you, in the drawer.\nYou will need to scratch a few tickets before you will win the jackpot. Scratching can be done with coins, which are located left behind you. If you are having trouble, please see the video below.",
+        "text": "After stepping into the circle and loading into the minigame, players will have 20 seconds to spread themselves out along a long pink starting line. At the other side of the area is a tall mechanical doll that will sing when players can run towards it and stop singing when players need to immediately freeze. The doll will shoot those who fail to freeze and taken back to the main waiting area.",
         "isNative": false,
 		"background": "#00FF00"
       },
       {
-        "title": "Know Your Maker",
+        "title": "Loby",
         "image": "https://www.zupimages.net/up/21/37/5pw7.png",
         "color": "#000000",
         "text_size": "25",
@@ -94,7 +94,7 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Read through the credits\n\nJob: Any\nLevel: Any\n\nPress the action button and a case will appear. This is the same case used to exit a level. Open the case and you will find a little card with “Credits”  written on it. Keep grabbing these cards until the trophy pops. Should you have any trouble achieving this trophy, you can use the video below for assistance.",
+        "text": "After the round has finished and the timer hits zero, all players waiting in the lobby will be teleported to the new area where the Red Light, Green Light game will take place. Players will need to spread out along the designated line in the sand and be extra careful to be away from others— collision is on in this experience, meaning competitors will try and have you detected by the doll by pushing you during a red light. After a short brief from the game announcer, players can begin making their way down the field and towards the mechanical doll waiting on the other side so long as they obey her commands to stop and go.",
         "isNative": false,
 		"background": "#00FF00"
       }
