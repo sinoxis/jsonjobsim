@@ -21,21 +21,21 @@
 
     "items": [
       {
-        "title": "Job Genie",
-        "image": "https://www.zupimages.net/up/21/37/3503.png",
+        "title": "test",
+        "image": "https://www.zupimages.net/up/21/39/475o.png",
         "color": "#000000",
         "text_size": "25",
         "isLink": true,
 		"link_title": "Get Coins",
 		"setLink": "https://www.facebook.com",
         "image_link": "https://www.google.com",
-        "text": "Play any job with a Job Genie cartridge.\n\nPlace : Museum.\nRequirements : Complete all 4 jobs.\n\nThis trophy can be earned when you completed all the jobs within the game. After completing the last one, a lab worker will burst into the museum. This will make 2 mods available, being it ” Low gravity mode” and “Bounce mode”. These mods can be found in the drawer below the 4 jobs. Open the drawer and put one in the cartridge hole. Place a job cartridge on top of it and pull the lever. The trophy will pop when it’s loading the level. See the video below if you are having trouble achieving it.",
+        "text": "test",
         "isNative": false,
 		"background": "#00FF00"
       },
       {
         "title": "test",
-        "image": "https://www.zupimages.net/up/21/37/6pr7.png",
+        "image": "https://www.zupimages.net/up/21/39/475o.png",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
@@ -48,7 +48,7 @@
       },
       {
         "title": "test",
-        "image": "https://www.zupimages.net/up/21/37/m0uo.png",
+        "image": "https://www.zupimages.net/up/21/39/475o.png",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
@@ -61,7 +61,7 @@
       },
       {
         "title": "test",
-        "image": "https://www.zupimages.net/up/21/37/9bjz.png",
+        "image": "https://www.zupimages.net/up/21/39/475o.png",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
@@ -74,7 +74,7 @@
       },
       {
         "title": "test",
-        "image": "https://www.zupimages.net/up/21/37/dpl8.png",
+        "image": "https://www.zupimages.net/up/21/39/475o.png",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
@@ -87,7 +87,7 @@
       },
       {
         "title": "test",
-        "image": "https://www.zupimages.net/up/21/37/5pw7.png",
+        "image": "https://www.zupimages.net/up/21/39/475o.png",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
