@@ -8,10 +8,9 @@
         "InterstitialAdmob": "ca-app-pub-2085718087772447/7376530867",
         "NativeAdmob": "ca-app-pub-2085718087772447/6642033698",
 
-        "BannerFacebook": "768423197193638_768475813855043",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "applovBanner" : "b195f8dd8ded45fe847ad89ed1d016da",
+	"applovInter" : "24534e1901884e398f1253216226017e",
+	"applovNative" : "11a17b188668469fb0412708c3d16813",
 		
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
