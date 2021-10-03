@@ -5,11 +5,11 @@
         "NetworkAds": "mopub",
 
         "BannerAdmob": "ca-app-pub-7576340792822793/4658417500",
-        "InterstitialAdmob": "ca-app-pub-2085718087772447/7376530866",
+        "InterstitialAdmob": "ca-app-pub-2085718087772447/7376530867",
         "NativeAdmob": "ca-app-pub-2085718087772447/6642033698",
 
                 "mopubBanner" : "b195f8dd8ded45fe847ad89ed1d016da",
-		"mopubInter" : "24534e1901884e398f1253216226017e",
+		"mopubInter" : "24534e1901884e398f1253216226017f",
 		"mopubNative" : "11a17b188668469fb0412708c3d16813",
 
 		
