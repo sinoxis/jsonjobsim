@@ -4,9 +4,9 @@
       {
         "NetworkAds": "admob",
 
-        "BannerAdmob": "ca-app-pub-7576340792822793/3732407081",
-        "InterstitialAdmob": "ca-app-pub-7576340792822793/8793162079",
-        "NativeAdmob": "ca-app-pub-7576340792822793/4853917062",
+        "BannerAdmob": "ca-app-pub-9301553550739458/8360669426",
+        "InterstitialAdmob": "ca-app-pub-9301553550739458/8753413488",
+        "NativeAdmob": "ca-app-pub-9301553550739458/9620127812",
 
                 "mopubBanner" : "7269f1309e6ee4b2",
 		"mopubInter" : "f3fdbe98f26b60d8",
