@@ -1,0 +1,103 @@
+{
+  "GuideData": {
+    "AdsController": {
+      "NetworkAds": "applovin",
+
+      "BannerAdmob": "ca-app-pub-9301553550739458/8360669426",
+      "InterstitialAdmob": "ca-app-pub-9301553550739458/8753413488",
+      "NativeAdmob": "ca-app-pub-9301553550739458/9620127812",
+
+      "mopubBanner": "c30dc2a0b69b26f1",
+      "mopubInter": "26716977d748702d",
+      "mopubNative": "6f20621a01cd0520",
+
+
+      "ImageBanner": false,
+      "ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+      "ImageBannerURL": "https://www.google.com"
+
+    },
+
+    "items": [
+      {
+        "title": "Fish Game - GOODJUJU",
+        "image": "https://www.zupimages.net/up/21/39/ybb4.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": true,
+        "link_title": "Get Coins",
+        "setLink": "https://www.facebook.com",
+        "image_link": "https://www.google.com",
+        "text": "Though Fish Game only features the Red Light, Green Light minigame from episode one of Squid Game, it appears to be the fan-favorite at the moment. With impressive graphics, smooth controls, and minimal bugs, it's hard to believe that this game was only created in an impressive 24 hours. Popular YouTuber brothers Sketch and Bandi created Fish Game with hopes to give players a fully working and honest experience, unlike similar games under the same title that constantly crashed or weren't even finished.",
+        "isNative": false,
+        "background": "#00FF00"
+      },
+      {
+        "title": "Red Light, Green Light",
+        "image": "https://www.zupimages.net/up/21/39/ivi6.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "RLGL by Slugfo goes a bit further than the one mentioned before with the addition of having an actual cash prize for those who successfully complete the game, but it is very similar in every other way. The only playable game is Red Light, Green Light, however, the developers do plan to add more in the near future.",
+        "isNative": false,
+        "background": "#00FF00"
+      },
+      {
+        "title": "Automatic registration underworks",
+        "image": "https://www.zupimages.net/up/21/39/do0x.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "If you've seen or heard anything online about the influx of games inspired by Netflix's Squid Game on the Roblox platform, Squid Game by Armin (@kasstro) is probably the one that you're most familiar with. This was one of the first experiences to blow up across the web and had users lining up to play it, waiting for their chance to enter the chaos. Quickly, however, users began asking questions as it appeared the game was bugged or broken.",
+        "isNative": false,
+        "background": "#00FF00"
+      },
+      {
+        "title": "Timer 1",
+        "image": "https://www.zupimages.net/up/21/39/877d.jpeg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "When you enter the lobby, look at the timer over the top of the door in front of you. This is when the next game starts. Once the timer reaches zero, you’re transported to a dark room where you need to walk forward out into the play area.",
+        "isNative": false,
+        "background": "#00FF00"
+      },
+      {
+        "title": "Timer 2",
+        "image": "https://www.zupimages.net/up/21/39/oq0e.jpeg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "After stepping into the circle and loading into the minigame, players will have 20 seconds to spread themselves out along a long pink starting line. At the other side of the area is a tall mechanical doll that will sing when players can run towards it and stop singing when players need to immediately freeze. The doll will shoot those who fail to freeze and taken back to the main waiting area.",
+        "isNative": false,
+        "background": "#00FF00"
+      },
+      {
+        "title": "Loby",
+        "image": "https://www.zupimages.net/up/21/39/i3xy.jpeg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "After the round has finished and the timer hits zero, all players waiting in the lobby will be teleported to the new area where the Red Light, Green Light game will take place. Players will need to spread out along the designated line in the sand and be extra careful to be away from others— collision is on in this experience, meaning competitors will try and have you detected by the doll by pushing you during a red light. After a short brief from the game announcer, players can begin making their way down the field and towards the mechanical doll waiting on the other side so long as they obey her commands to stop and go.",
+        "isNative": false,
+        "background": "#00FF00"
+      }
+    ]
+
+  }
+}
